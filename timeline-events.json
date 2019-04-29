@@ -1,0 +1,161 @@
+{
+	"title": {
+		"media": {
+			"url": "//drive.google.com/uc?export=view&id=1ecj7kHyOSqFTpuFJGg-JuXoh2rn9OfJU/",
+			"caption": "Cocos Island, Costa Rica",
+			"credit": "Nick Hawkins / Ocean School"
+		},
+		"text": {
+			"headline": "History of Cocos Island",
+			"text": "<p>Cocos Island: a tropical treasure 500 miles off the coast of Costa Rica. Explore its rich history in this interactive timeline.</p>"
+		}
+	},
+	"events": [{
+			"media": {
+				"url": "//www.flickr.com/photos/zachwise/6894476777/in/photostream",
+				"caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.",
+				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+			},
+			"start_date": {
+				"year": "1526"
+			},
+			"text": {
+				"headline": "Discovery",
+				"text": "<p>Spanish sailor Juan Cabezas creates the first written record of the island.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/fSrO91XO1Ck",
+				"caption": "",
+				"credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
+			},
+			"start_date": {
+				"year": "1542"
+			},
+			"text": {
+				"headline": "Put it on the map",
+				"text": "<p>Cocos Island first appears on a map delivered to King Henry the II of France by cartographer Nicolas Desliens.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/_gvJCCZzmro",
+				"caption": "A young poised Whitney Houston in an interview with EbonyJet.",
+				"credit": "EbonyJet"
+			},
+			"start_date": {
+				"year": "1832"
+			},
+			"text": {
+				"headline": "First Costa Rican presence",
+				"text": "<p>Costa Ricans first visited Cocos Island when President Juan Mora Fernández sent a ship to rescue a group of Chilean outcasts.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/H7_sqdkaAfo",
+				"caption": "I'm Every Women as performed by Whitney Houston.",
+				"credit": "Arista Records"
+			},
+			"start_date": {
+				"year": "1876"
+			},
+			"end_date": {
+				"year": "1882"
+			},
+			"text": {
+				"headline": "Prison Island",
+				"text": "<p>A prison once stood on Cocos Island.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/A4jGzNm2yPI",
+				"caption": "Whitney Houston and Clive Davis discussing her discovery and her eponymous first album.",
+				"credit": "Sony Music Entertainment"
+			},
+			"start_date": {
+				"year": "1898"
+			},
+
+			"text": {
+				"headline": "First scientific expedition",
+				"text": "<p>President Rafael Yglesias sent the first scientific expedition to Cocos Island, with scientists Anastasio Alfaro and Henry Pittier.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/m3-hY-hlhBg",
+				"caption": "The 'How Will I Know' video showcases the youthful energy that boosted Houston to stardom.",
+				"credit": "Arista Records Inc."
+			},
+			"start_date": {
+				"year": "1889"
+			},
+			"end_date": {
+				"year": "1909"
+			},
+			"text": {
+				"headline": "Treasure Hunter",
+				"text": "<p>German citizen Augusto Gissler lived on the island treasure hunting. He installed himself there with 13 families.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/v0XuiMX1XHg",
+				"caption": "Dionne Warwick gleefully announces cousin, Whitney Houston, the winner of the Best Female Pop Vocal Performance for the song Saving All My Love.",
+				"credit": "<a href='http://grammy.org'>The Recording Academy</a>"
+			},
+			"start_date": {
+				"year": "1978"
+			},
+			"text": {
+				"headline": "National Park",
+				"text": "<p>President Rodrigo Carazo declares Cocos Island a National Park.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//www.flickr.com/photos/london/3924838/in/photolist-m7KM-m7zY-KD5J9-KD5PS-m7HV-m7zF-m7K8-3Ho95Y-m7An-m7zN-m7J7-m7HC-m7Jk-m7zR-m7Hn-m7H7/",
+				"caption": "Cocos National Park",
+				"credit": "<a href='https://www.flickr.com/photos/london/3924838/' target='_blank'>my domicile for 15 days</a>&quot;&nbsp;(<a rel='license' href='https://creativecommons.org/licenses/by/2.0/' target='_blank'>CC BY 2.0</a>)&nbsp;by&nbsp;<a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/london/' target='_blank'>jonrawlinson</a>"
+			},
+			"start_date": {
+				"year": "1997"
+			},
+			"text": {
+				"headline": "World Heritage Site",
+				"text": "<p>Cocos Island becomes a UNESCO World Heritage Site.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/eH3giaIzONA",
+				"caption": "I Wanna Dance With Somebody",
+				"credit": "Arista Records Inc."
+			},
+			"start_date": {
+				"year": "1998"
+			},
+			"text": {
+				"headline": "World Heritage Site",
+				"text": "<p>Cocos Island becomes a UNESCO World Heritage Site.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/eH3giaIzONA",
+				"caption": "I Wanna Dance With Somebody",
+				"credit": "Arista Records Inc."
+			},
+			"start_date": {
+				"year": "2002"
+			},
+			"text": {
+				"headline": "Historic and Cultural Site",
+				"text": "<p>Cocos Island is declared a Historic and Cultural Site by the Ministry of Culture, Youth and Sports of Costa Rica.</p>"
+			}
+		}
+	]
+}
