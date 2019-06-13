@@ -101,7 +101,7 @@
     {
       "media": {
         "url": "https://drive.google.com/uc?id=1bnxHKE5zu1SyTXiOr9mid6Ld9-17l1S5",
-        "caption": "<p>Augusto lived on Cocos Island, searching for the Treasure of Lima. In his 19 years living there, he only found 6 gold coins. The remains of his home can still be found there.</p>",
+        "caption": "<p>Augusto lived on Cocos Island, searching for the Treasure of Lima.</p>",
         "credit": "<a href='https://www.flickr.com/photos/internetarchivebookimages/20325637652/' target='_blank'>Image from page 359 of &rdquo;The Arcturus adv</a>&quot; (<a rel='license' href='https://www.flickr.com/commons/usage/' target='_blank'>Public Domain</a>) by <a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/internetarchivebookimages/' target='_blank'>Internet Archive Book Images</a>"
       },
       "start_date": {
@@ -109,7 +109,7 @@
       },
       "text": {
         "headline": "Treasure Hunter",
-        "text": "<p>German citizen Augusto Gissler lived on the island treasure hunting. He installed himself there with 13 families.</p>"
+        "text": "<p>German citizen Augusto Gissler lived on the island treasure hunting. He installed himself there with 13 families.</p><p>In his 19 years living there, Augusto only found 6 gold coins. The remains of his home can still be found there.</p>"
       },
       "end_date": {
         "year": "1909"
