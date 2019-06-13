@@ -1,161 +1,178 @@
 {
-	"title": {
-		"media": {
-			"url": "https://d1fe71kg83l872.cloudfront.net/v2/_1600x900_fit_center-center_70_line/Nick-Hawkins-Cocos-Island-0004-web.jpg?mtime=20180915105050",
-			"caption": "Cocos Island, Costa Rica",
-			"credit": "Nick Hawkins / Ocean School"
-		},
-		"text": {
-			"headline": "History of Cocos Island",
-			"text": "<p>Cocos Island: a tropical treasure 500 miles off the coast of Costa Rica. Explore its rich history in this interactive timeline.</p>"
-		}
-	},
-	"events": [{
-			"media": {
-				"url": "//www.flickr.com/photos/zachwise/6894476777/in/photostream",
-				"caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.",
-				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
-			},
-			"start_date": {
-				"year": "1526"
-			},
-			"text": {
-				"headline": "Discovery",
-				"text": "<p>Spanish sailor Juan Cabezas creates the first written record of the island.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/fSrO91XO1Ck",
-				"caption": "",
-				"credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
-			},
-			"start_date": {
-				"year": "1542"
-			},
-			"text": {
-				"headline": "Put it on the map",
-				"text": "<p>Cocos Island first appears on a map delivered to King Henry the II of France by cartographer Nicolas Desliens.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/_gvJCCZzmro",
-				"caption": "A young poised Whitney Houston in an interview with EbonyJet.",
-				"credit": "EbonyJet"
-			},
-			"start_date": {
-				"year": "1832"
-			},
-			"text": {
-				"headline": "First Costa Rican presence",
-				"text": "<p>Costa Ricans first visited Cocos Island when President Juan Mora Fernández sent a ship to rescue a group of Chilean outcasts.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/H7_sqdkaAfo",
-				"caption": "I'm Every Women as performed by Whitney Houston.",
-				"credit": "Arista Records"
-			},
-			"start_date": {
-				"year": "1876"
-			},
-			"end_date": {
-				"year": "1882"
-			},
-			"text": {
-				"headline": "Prison Island",
-				"text": "<p>A prison once stood on Cocos Island.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/A4jGzNm2yPI",
-				"caption": "Whitney Houston and Clive Davis discussing her discovery and her eponymous first album.",
-				"credit": "Sony Music Entertainment"
-			},
-			"start_date": {
-				"year": "1898"
-			},
-
-			"text": {
-				"headline": "First scientific expedition",
-				"text": "<p>President Rafael Yglesias sent the first scientific expedition to Cocos Island, with scientists Anastasio Alfaro and Henry Pittier.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/m3-hY-hlhBg",
-				"caption": "The 'How Will I Know' video showcases the youthful energy that boosted Houston to stardom.",
-				"credit": "Arista Records Inc."
-			},
-			"start_date": {
-				"year": "1889"
-			},
-			"end_date": {
-				"year": "1909"
-			},
-			"text": {
-				"headline": "Treasure Hunter",
-				"text": "<p>German citizen Augusto Gissler lived on the island treasure hunting. He installed himself there with 13 families.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/v0XuiMX1XHg",
-				"caption": "Dionne Warwick gleefully announces cousin, Whitney Houston, the winner of the Best Female Pop Vocal Performance for the song Saving All My Love.",
-				"credit": "<a href='http://grammy.org'>The Recording Academy</a>"
-			},
-			"start_date": {
-				"year": "1978"
-			},
-			"text": {
-				"headline": "National Park",
-				"text": "<p>President Rodrigo Carazo declares Cocos Island a National Park.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "//www.flickr.com/photos/london/3924838/in/photolist-m7KM-m7zY-KD5J9-KD5PS-m7HV-m7zF-m7K8-3Ho95Y-m7An-m7zN-m7J7-m7HC-m7Jk-m7zR-m7Hn-m7H7/",
-				"caption": "Cocos National Park",
-				"credit": "<a href='https://www.flickr.com/photos/london/3924838/' target='_blank'>my domicile for 15 days</a>&quot;&nbsp;(<a rel='license' href='https://creativecommons.org/licenses/by/2.0/' target='_blank'>CC BY 2.0</a>)&nbsp;by&nbsp;<a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/london/' target='_blank'>jonrawlinson</a>"
-			},
-			"start_date": {
-				"year": "1997"
-			},
-			"text": {
-				"headline": "World Heritage Site",
-				"text": "<p>Cocos Island becomes a UNESCO World Heritage Site.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/eH3giaIzONA",
-				"caption": "I Wanna Dance With Somebody",
-				"credit": "Arista Records Inc."
-			},
-			"start_date": {
-				"year": "1998"
-			},
-			"text": {
-				"headline": "World Heritage Site",
-				"text": "<p>Cocos Island becomes a UNESCO World Heritage Site.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/eH3giaIzONA",
-				"caption": "I Wanna Dance With Somebody",
-				"credit": "Arista Records Inc."
-			},
-			"start_date": {
-				"year": "2002"
-			},
-			"text": {
-				"headline": "Historic and Cultural Site",
-				"text": "<p>Cocos Island is declared a Historic and Cultural Site by the Ministry of Culture, Youth and Sports of Costa Rica.</p>"
-			}
-		}
-	]
+  "title": {
+    "media": {
+      "url": "https://d1fe71kg83l872.cloudfront.net/v2/_1600x900_fit_center-center_70_line/Nick-Hawkins-Cocos-Island-0004-web.jpg?mtime=20180915105050",
+      "caption": "Cocos Island, Costa Rica",
+      "credit": "Nick Hawkins / Ocean School"
+    },
+    "text": {
+      "headline": "History of Cocos Island",
+      "text": "<p>Cocos Island: a tropical treasure over 500km off the coast of Costa Rica. Explore its rich history in this interactive timeline.</p>"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "//www.flickr.com/photos/zachwise/6894476777/in/photostream",
+        "caption": "<p>Cocos Island as Juan Cabezas would have seen it.</p>",
+        "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+      },
+      "start_date": {
+        "year": "1526"
+      },
+      "text": {
+        "headline": "Discovery",
+        "text": "<p>Spanish sailor Juan Cabezas creates the first written record of the island.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/fSrO91XO1Ck",
+        "caption": "<p>The original Planisphère by Nicolas Desliens is now stored at the Bibliothèque Nationale of France. The original looks upside-down to us, with North at the bottom of the map.</p> ",
+        "credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
+      },
+      "start_date": {
+        "year": "1542"
+      },
+      "text": {
+        "headline": "Put it on the map",
+        "text": "<p>Cocos Island first appears on a map delivered to King Henry the II of France by cartographer Nicolas Desliens.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/H7_sqdkaAfo",
+        "caption": "<p>The vast amount of caves, nooks, and crannies provide many great hiding spots for a secret treasure.</p>",
+        "credit": "Arista Records"
+      },
+      "start_date": {
+        "year": "1820"
+      },
+      "text": {
+        "headline": "The Treasure of Lima",
+        "text": "<p>The Spanish removed over $50 million of gold, diamonds, jewels, and swords from Lima, Peru.  The captain of the boat carrying the treasure stole it all and headed to Cocos Island. </p>"
+      },
+      "end_date": {
+        "year": "1882"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/H7_sqdkaAfo",
+        "caption": "Costa Rica first claimed Cocos Island as its territory in 1869, but the claim did not become law until 1949.",
+        "credit": "Arista Records"
+      },
+      "start_date": {
+        "year": "1832"
+      },
+      "text": {
+        "headline": "First Costa Rican presence",
+        "text": "<p>Costa Ricans first visited Cocos Island when President Juan Mora Fernández sent a ship to rescue a group of Chilean outcasts.</p>"
+      },
+      "end_date": {
+        "year": "1882"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/_gvJCCZzmro",
+        "caption": "<p>The remoteness of Cocos Island made it a great option for a prison.</p>",
+        "credit": "EbonyJet"
+      },
+      "start_date": {
+        "year": "1876"
+      },
+      "text": {
+        "headline": "Prison Island",
+        "text": "<p>A prison once stood on Cocos Island.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/A4jGzNm2yPI",
+        "caption": "<p>Anastasio Alfaro (left) and Henry Pittier (right) were the first scientists to make scientific observations of life on Cocos Island.</p>",
+        "credit": "Sony Music Entertainment"
+      },
+      "start_date": {
+        "year": "1898"
+      },
+      "text": {
+        "headline": "First scientific expedition",
+        "text": "<p>President Rafael Yglesias sent the first scientific expedition to Cocos Island, with scientists Anastasio Alfaro and Henry Pittier.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/m3-hY-hlhBg",
+        "caption": "<p>Augusto lived on Cocos Island, searching for the Treasure of Lima. In his 19 years living there, he only found 6 gold coins. The remains of his home can still be found there.</p>",
+        "credit": "Arista Records Inc."
+      },
+      "start_date": {
+        "year": "1889"
+      },
+      "text": {
+        "headline": "Treasure Hunter",
+        "text": "<p>German citizen Augusto Gissler lived on the island treasure hunting. He installed himself there with 13 families.</p>"
+      },
+      "end_date": {
+        "year": "1909"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/v0XuiMX1XHg",
+        "caption": "<p>Cocos Island is one of eleven Conservation Areas in Costa Rica.</p>",
+        "credit": "<a href='http://grammy.org'>The Recording Academy</a>"
+      },
+      "start_date": {
+        "year": "1978"
+      },
+      "text": {
+        "headline": "National Park",
+        "text": "<p>President Rodrigo Carazo declares Cocos Island a National Park.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "//www.flickr.com/photos/london/3924838/in/photolist-m7KM-m7zY-KD5J9-KD5PS-m7HV-m7zF-m7K8-3Ho95Y-m7An-m7zN-m7J7-m7HC-m7Jk-m7zR-m7Hn-m7H7/",
+        "caption": "<p>Cocos Island was deemed to have scientific and cultural significance by the United Nations Educational, Scientific and Cultural Organization. Now it is protected by international treaties.</p>",
+        "credit": "<a href='https://www.flickr.com/photos/london/3924838/' target='_blank'>my domicile for 15 days</a>&quot;&nbsp;(<a rel='license' href='https://creativecommons.org/licenses/by/2.0/' target='_blank'>CC BY 2.0</a>)&nbsp;by&nbsp;<a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/london/' target='_blank'>jonrawlinson</a>"
+      },
+      "start_date": {
+        "year": "1997"
+      },
+      "text": {
+        "headline": "World Heritage Site",
+        "text": "<p>Cocos Island becomes a UNESCO World Heritage Site.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/eH3giaIzONA",
+        "caption": "<p>Cocos Island is a key habitat for hundreds of bird species. Some of these birds are endemic to the island, which means they are only found there.</p>",
+        "credit": "Arista Records Inc."
+      },
+      "start_date": {
+        "year": "1998"
+      },
+      "text": {
+        "headline": "Wetland of International Importance",
+        "text": "<p>The area is declared as a Wetland of International Importance under the Convention on Wetlands, an international treaty for conservation and sustainable use of wetlands.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/eH3giaIzONA",
+        "caption": "<p>Costa Rica will continue to protect Cocos Island for generations to come.</p>",
+        "credit": "Arista Records Inc."
+      },
+      "start_date": {
+        "year": "2002"
+      },
+      "text": {
+        "headline": "Historic and Cultural Site",
+        "text": "<p>Cocos Island is declared a Historic and Cultural Site by the Ministry of Culture, Youth and Sports of Costa Rica.</p>"
+      }
+    }
+  ]
 }
