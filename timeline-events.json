@@ -51,9 +51,6 @@
       "text": {
         "headline": "The Treasure of Lima",
         "text": "<p>The Spanish removed over $50 million of gold, diamonds, jewels, and swords from Lima, Peru.  The captain of the boat carrying the treasure stole it all and headed to Cocos Island. </p>"
-      },
-      "end_date": {
-        "year": "1882"
       }
     },
     {
@@ -68,9 +65,6 @@
       "text": {
         "headline": "First Costa Rican presence",
         "text": "<p>Costa Ricans first visited Cocos Island when President Juan Mora Fernández sent a ship to rescue a group of Chilean outcasts.</p>"
-      },
-      "end_date": {
-        "year": "1882"
       }
     },
     {
@@ -85,6 +79,9 @@
       "text": {
         "headline": "Prison Island",
         "text": "<p>A prison once stood on Cocos Island.</p>"
+      },
+      "end_date": {
+        "year": "1882"
       }
     },
     {
