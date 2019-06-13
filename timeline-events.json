@@ -28,7 +28,7 @@
     {
       "media": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nicolas_Desliens_Map_%281566%29.jpg",
-        "caption": "<p>The original Planisphère by Nicolas Desliens is now stored at the Bibliothèque Nationale of France. The original looks upside-down to us, with North at the bottom of the map.</p> ",
+        "caption": "<p>The original map looks upside-down to us, with North at the bottom of the map.</p> ",
         "credit": "<a href=\"https://commons.wikimedia.org/wiki/File:Nicolas_Desliens_Map_(1566).jpg\"> Nicolas Desliens (Public Domain) / Wikimedia Commons</a>"
       },
       "start_date": {
@@ -36,7 +36,7 @@
       },
       "text": {
         "headline": "Put it on the map",
-        "text": "<p>Cocos Island first appears on a map delivered to King Henry the II of France by cartographer Nicolas Desliens.</p>"
+        "text": "<p>Cocos Island first appears on a map delivered to King Henry the II of France by cartographer Nicolas Desliens.</p><p>The original Planisphère by Nicolas Desliens is now stored at the Bibliothèque Nationale of France. </p>"
       }
     },
     {
@@ -56,7 +56,7 @@
     {
       "media": {
         "url": "https://drive.google.com/uc?id=1ospUTNvR5m7ej7jyZjyzxGxQQhDQ2Dr6",
-        "caption": "<p>Costa Rica first claimed Cocos Island as its territory in 1869, but the claim did not become law until 1949.</p>",
+
         "credit": "Public Domain"
       },
       "start_date": {
@@ -64,7 +64,7 @@
       },
       "text": {
         "headline": "First Costa Rican presence",
-        "text": "<p>Costa Ricans first visited Cocos Island when President Juan Mora Fernández sent a ship to rescue a group of Chilean outcasts.</p>"
+        "text": "<p>Costa Ricans first visited Cocos Island when President Juan Mora Fernández sent a ship to rescue a group of Chilean outcasts.</p><p>Costa Rica first claimed Cocos Island as its territory in 1869, but the claim did not become law until 1949.</p>"
       }
     },
     {
@@ -77,7 +77,7 @@
         "year": "1876"
       },
       "text": {
-        "headline": "Prison Island",
+        "headline": "Prison island",
         "text": "<p>A prison once stood on Cocos Island.</p>"
       },
       "end_date": {
@@ -88,7 +88,7 @@
       "media": {
         "url": "https://drive.google.com/uc?id=1eQhuv9ULV2rDxIofVQgqG0oWzhZeMTCT",
         "caption": "<p>Anastasio Alfaro (left) and Henry Pittier (right) were the first scientists to make scientific observations of life on Cocos Island.</p>",
-        "credit": "<a href=\"www.sinabi.go.cr\">\"Anastasio Alfaro\", \"Henry Pittier\" (Public Domain) / Sistema Nacional de Bibliotecas</a>"
+        "credit": "<a href=\"http://www.sinabi.go.cr\">\"Anastasio Alfaro\", \"Henry Pittier\" (Public Domain) / Sistema Nacional de Bibliotecas</a>"
       },
       "start_date": {
         "year": "1898"
@@ -101,15 +101,14 @@
     {
       "media": {
         "url": "https://drive.google.com/uc?id=1bnxHKE5zu1SyTXiOr9mid6Ld9-17l1S5",
-        "caption": "<p>Augusto lived on Cocos Island, searching for the Treasure of Lima.</p>",
         "credit": "<a href='https://www.flickr.com/photos/internetarchivebookimages/20325637652/' target='_blank'>Image from page 359 of &rdquo;The Arcturus adv</a>&quot; (<a rel='license' href='https://www.flickr.com/commons/usage/' target='_blank'>Public Domain</a>) by <a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/internetarchivebookimages/' target='_blank'>Internet Archive Book Images</a>"
       },
       "start_date": {
         "year": "1889"
       },
       "text": {
-        "headline": "Treasure Hunter",
-        "text": "<p>German citizen Augusto Gissler lived on the island treasure hunting. He installed himself there with 13 families.</p><p>In his 19 years living there, Augusto only found 6 gold coins. The remains of his home can still be found there.</p>"
+        "headline": "Treasure hunter",
+        "text": "<p>German citizen Augusto Gissler lived on the island treasure hunting. He installed himself there with 13 families.</p><p>Augusto was searching for the Treasure of Lima. In his 19 years living there, he only found 6 gold coins. The remains of his home can still be found there.</p>"
       },
       "end_date": {
         "year": "1909"
@@ -132,7 +131,6 @@
     {
       "media": {
         "url": "https://drive.google.com/uc?id=1VIsrpcwA7vIeOyEWexjKJQ6sFZ5frRvD",
-        "caption": "<p>Cocos Island was deemed to have scientific and cultural significance by the United Nations Educational, Scientific and Cultural Organization. Now it is protected by international treaties.</p>",
         "credit": "<a href='https://whc.unesco.org/en/emblem/>UNESCO</a>"
       },
       "start_date": {
@@ -140,13 +138,12 @@
       },
       "text": {
         "headline": "World Heritage Site",
-        "text": "<p>Cocos Island becomes a UNESCO World Heritage Site.</p>"
+        "text": "<p>Cocos Island becomes a UNESCO World Heritage Site.</p><p>Cocos Island was deemed to have scientific and cultural significance by the United Nations Educational, Scientific and Cultural Organization. Now it is protected by international treaties.</p>"
       }
     },
     {
       "media": {
         "url": "https://drive.google.com/thumbnail?id=1utATl7_UqRCpNC9Y7W8HC8qdge8-VDj7",
-        "caption": "<p>Cocos Island is a key habitat for hundreds of bird species. Some of these birds are endemic to the island, which means they are only found there.</p>",
         "credit": "Nick Hawkins / Ocean School"
       },
       "start_date": {
@@ -154,7 +151,7 @@
       },
       "text": {
         "headline": "Wetland of International Importance",
-        "text": "<p>The area is declared as a Wetland of International Importance under the Convention on Wetlands, an international treaty for conservation and sustainable use of wetlands.</p>"
+        "text": "<p>The area is declared as a Wetland of International Importance under the Convention on Wetlands, an international treaty for conservation and sustainable use of wetlands.</p><p><p>Cocos Island is a key habitat for hundreds of bird species. Some of these birds are endemic to the island, which means they are only found there.</p>"
       }
     },
     {
